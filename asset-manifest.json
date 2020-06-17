@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ventisca6201/workerTest/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ventisca6201/workerTest/static/js/main.d913fe1e.chunk.js",
-    "main.js.map": "/ventisca6201/workerTest/static/js/main.d913fe1e.chunk.js.map",
-    "runtime-main.js": "/ventisca6201/workerTest/static/js/runtime-main.145d90bb.js",
-    "runtime-main.js.map": "/ventisca6201/workerTest/static/js/runtime-main.145d90bb.js.map",
-    "static/css/2.30c2d978.chunk.css": "/ventisca6201/workerTest/static/css/2.30c2d978.chunk.css",
-    "static/js/2.d06d2145.chunk.js": "/ventisca6201/workerTest/static/js/2.d06d2145.chunk.js",
-    "static/js/2.d06d2145.chunk.js.map": "/ventisca6201/workerTest/static/js/2.d06d2145.chunk.js.map",
-    "index.html": "/ventisca6201/workerTest/index.html",
-    "precache-manifest.d0d8f2c70575bf8b018604a47b4419ca.js": "/ventisca6201/workerTest/precache-manifest.d0d8f2c70575bf8b018604a47b4419ca.js",
-    "service-worker.js": "/ventisca6201/workerTest/service-worker.js",
-    "static/css/2.30c2d978.chunk.css.map": "/ventisca6201/workerTest/static/css/2.30c2d978.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/ventisca6201/workerTest/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d06d2145.chunk.js.LICENSE.txt": "/ventisca6201/workerTest/static/js/2.d06d2145.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ventisca6201/workerTest/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ventisca6201/workerTest/my-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ventisca6201/workerTest/my-app/static/js/main.5b05b09e.chunk.js",
+    "main.js.map": "/ventisca6201/workerTest/my-app/static/js/main.5b05b09e.chunk.js.map",
+    "runtime-main.js": "/ventisca6201/workerTest/my-app/static/js/runtime-main.b70564eb.js",
+    "runtime-main.js.map": "/ventisca6201/workerTest/my-app/static/js/runtime-main.b70564eb.js.map",
+    "static/css/2.30c2d978.chunk.css": "/ventisca6201/workerTest/my-app/static/css/2.30c2d978.chunk.css",
+    "static/js/2.d06d2145.chunk.js": "/ventisca6201/workerTest/my-app/static/js/2.d06d2145.chunk.js",
+    "static/js/2.d06d2145.chunk.js.map": "/ventisca6201/workerTest/my-app/static/js/2.d06d2145.chunk.js.map",
+    "index.html": "/ventisca6201/workerTest/my-app/index.html",
+    "precache-manifest.279e484fd79231b42d24cb92c47d8014.js": "/ventisca6201/workerTest/my-app/precache-manifest.279e484fd79231b42d24cb92c47d8014.js",
+    "service-worker.js": "/ventisca6201/workerTest/my-app/service-worker.js",
+    "static/css/2.30c2d978.chunk.css.map": "/ventisca6201/workerTest/my-app/static/css/2.30c2d978.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/ventisca6201/workerTest/my-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d06d2145.chunk.js.LICENSE.txt": "/ventisca6201/workerTest/my-app/static/js/2.d06d2145.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ventisca6201/workerTest/my-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.145d90bb.js",
+    "static/js/runtime-main.b70564eb.js",
     "static/css/2.30c2d978.chunk.css",
     "static/js/2.d06d2145.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d913fe1e.chunk.js"
+    "static/js/main.5b05b09e.chunk.js"
   ]
 }
